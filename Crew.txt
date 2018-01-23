@@ -1,7 +1,7 @@
 Recruiting a crew:
  - Pilot ?
  - CoPilot ?
- - Cook
+ - Cook --> Sanne
  - Astronaut
  - Technician
  - Cleaner
